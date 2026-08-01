@@ -26,7 +26,7 @@ I enjoy working across the data analysis workflow, from cleaning and exploring d
 | ---------------------------- | ---------------------------------------------------------- |
 | 🏡 House Price Multiple Linear Regression | Regression Analysis Using Python and JASP |
 | 📊 Superstore Sales Analysis | End-to-end sales analytics using Python, SQL, and Power BI |
-| 🐍 Data Analysis Lessons    | Collection of Python, SQL, Excel, and Power BI exercises   |
+| 🐍 Data Analysis Self Learning Exercises | Collection of Python, SQL, Excel, and Power BI exercises   |
 
 For more information, visit my Data Analysis Project Repository: 
 - https://github.com/lapasaranrainan-cloud/Data-Analysis-Projects/blob/main/README.md
