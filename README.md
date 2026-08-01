@@ -33,3 +33,11 @@ I enjoy working across the data analysis workflow, from cleaning and exploring d
 - Advanced SQL
 - DAX
 - Machine Learning
+
+## 📜 Certifications
+
+| Certificate | Preview |
+|-------------|---------|
+| Introduction to Data Analytics | <img src="Certifications/Introduction%20to%20Data%20Analytics.png" width="220"> |
+| Python for Data Analysis | <img src="Certifications/Python%20for%20Data%20Analysis.png" width="220"> |
+| SQL for Data Analysis | <img src="Certifications/SQL%20for%20Data%20Analysis.png" width="220"> |
