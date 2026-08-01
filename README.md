@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**lapasaranrainan-cloud/lapasaranrainan-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BS Applied Mathematics student driven by curiosity and fascination with Mathematics as I believe that every number has a story to tell. I enjoy solving problems that relays analytical thinking with real-world decision making. 
 
-Here are some ideas to get you started:
+### 🛠️Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JASP](https://img.shields.io/badge/JASP-Statistical%20Software-4B8BBE?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 What I Do
+
+I enjoy working across the data analysis workflow, from cleaning and exploring datasets to building models and applying statistical techniques to find conclusion and insights.
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Dashboard Development
+- Statistical Analysis
+
+### 📂 Featured Projects
+
+| Project                      | Description                                                |
+| ---------------------------- | ---------------------------------------------------------- |
+| 📊 Superstore Sales Analysis | End-to-end sales analytics using Python, SQL, and Power BI |
+| 🐍 Data Analysis Practice    | Collection of Python, SQL, Excel, and Power BI exercises   |
+
+
+### 🌱 Currently Learning
+
+- Advanced SQL
+- DAX
+- Machine Learning
