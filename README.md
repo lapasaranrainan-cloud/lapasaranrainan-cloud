@@ -34,7 +34,7 @@ I enjoy working across the data analysis workflow, from cleaning and exploring d
 - DAX
 - Machine Learning
 
-## 📜 Certifications
+### 📜 Certifications
 
 | Certificate | Preview |
 |-------------|---------|
