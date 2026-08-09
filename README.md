@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a BS Applied Mathematics student driven by curiosity and fascination with Mathematics as I believe that every number has a story to tell. I enjoy solving problems that relays analytical thinking with real-world decision making. 
+I am a BS Applied Mathematics student driven by curiosity and fascination with Mathematics as I believe that every number has a story to tell, whether real or imaginary. I enjoy solving problems that relays analytical thinking with real-world decision making. 
 
 ### 🛠️Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -12,7 +12,7 @@ I am a BS Applied Mathematics student driven by curiosity and fascination with M
 
 ### 📊 What I Do
 
-I enjoy working across the data analysis workflow, from cleaning and exploring datasets to building models and applying statistical techniques to find conclusion and insights.
+I often work across the data analysis workflow, from cleaning and exploring datasets to building models and applying statistical techniques (e.g. EDA) to find conclusion and insights.
 
 - Data Cleaning
 - Exploratory Data Analysis
