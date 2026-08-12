@@ -20,15 +20,15 @@ I'm always looking forward to work with fellow analysts or researchers eager to 
 
 Programming Language:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=A7EF6C)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 Software:
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-8EE944?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![JASP](https://img.shields.io/badge/JASP-Statistical%20Software-4B8BBE?style=flat-square)
+![JASP](https://img.shields.io/badge/JASP-Statistical%20Software-A9EF6B?style=flat-square)
 
 Editors:
 
@@ -45,7 +45,7 @@ Editors:
 | 📊 Superstore Sales Analysis | End-to-end sales analytics using Python, SQL, and Power BI |
 | 🐍 Data Analysis Self Learning Exercises | Collection of Python, SQL, Excel, and Power BI exercises   |
 
-For more information, visit my Data Analysis Project Repository: 
+For more information about these projects, please visit my Data Analysis Project Repository: 
 -   <a href="https://github.com/lapasaranrainan-cloud/Data-Analysis-Projects/blob/main/README.md"> Data Analysis Projects</a>
 
 <br>
